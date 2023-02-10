@@ -6,7 +6,7 @@ import {
     Tag, 
 } from 'antd';
 
-const API_KEY = 'ce762116';
+const API_KEY = '95c5f310';
 const { Meta } = Card;
 
 const ColCardBox = ({Title, imdbID, Poster, Type, ShowDetail, DetailRequest, ActivateModal}) => {
