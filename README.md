@@ -3,4 +3,4 @@ API KEY :- ce762116
 
 API URL:- http://www.omdbapi.com/?i=${imdbID}&apikey=${API_KEY}
 
-Hosted Link:- 
+Hosted Link:- https://endearing-pegasus-c3ec00.netlify.app
